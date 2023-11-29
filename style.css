@@ -281,8 +281,6 @@ body {
 }
 
 .disc{
-  position: absolute;
-  left:10%;
   flex-basis: 30%;
 }
 
